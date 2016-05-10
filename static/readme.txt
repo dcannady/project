@@ -1,0 +1,1 @@
+This is where flask is picking up css, javascript, and image assets.
